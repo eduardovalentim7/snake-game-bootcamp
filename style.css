@@ -1,0 +1,18 @@
+body{   
+    background-image: url("img/snake.jpeg");
+    background-position: bottom;        
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(44,139,44);
+}
+
+#snake{
+    border: 1px solid green;
+  
+}
+h1{
+    color: firebrick;
+}
+
